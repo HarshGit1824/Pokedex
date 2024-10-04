@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+* {
+  font-family: 'Afacad Flux', sans-serif;
+}
+
+body {
+  /* background: linear-gradient(
+    68.6deg,
+    rgb(252, 165, 241) 1.8%,
+    rgb(181, 255, 255) 100.5%
+  ); */
+
+  background: linear-gradient(
+    109.6deg,
+    rgb(255, 24, 134) 11.2%,
+    rgb(252, 232, 68) 52%,
+    rgb(53, 178, 239) 100.2%
+  );
+}
